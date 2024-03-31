@@ -1,5 +1,5 @@
 #!/bin/bash
-export UUID=${UUID:-'dce129ee-466a-4a3f-b97c-9300651d69cb'}
+export UUID=${UUID:-'7ff70fb5-fd04-4b71-b391-5409bbf764f7'}
 export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-'5555'} # 哪吒端口为{443,8443,2096,2087,2083,2053}其中之一时开启tls
 export NEZHA_KEY=${NEZHA_KEY:-''}
